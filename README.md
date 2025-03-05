@@ -1,4 +1,4 @@
-![top img](./images/top.svg)
+![top img](./images/top_img.svg)
 ## Hi there 👋, I'm Zeke!
 <!--
 
