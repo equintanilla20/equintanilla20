@@ -28,5 +28,5 @@ Current MSCS Student at Georgia Tech (🐝) studying high performance computing 
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20Idea-3c1d5e?style=flat&logo=intellij-idea)&nbsp;
 
 ### 🙌 More Info
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/equintanilla20)
-[![Personal Site](https://custom-icon-badges.demolab.com/badge/Personal%20Site-F26207)](https://equintanilla.dev)
+[![Personal Site](https://custom-icon-badges.demolab.com/badge/Personal%20Site-F26207)](https://equintanilla.dev)&nbsp;
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/equintanilla20)&nbsp;
